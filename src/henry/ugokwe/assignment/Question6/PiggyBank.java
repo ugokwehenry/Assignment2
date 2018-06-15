@@ -54,7 +54,6 @@ public class PiggyBank
 			System.out.println("I am a bad programmer that hid an exception.");
 		}
 	}
-
 	public void Load()
 	{
 		try
